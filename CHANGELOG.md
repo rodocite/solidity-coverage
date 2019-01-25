@@ -1,9 +1,5 @@
 # Changelog
 
-0.5.11 / 2018-08-31
-===================
-  * Support org namespaces / subfolders for `copyPackages` option (contribution @bingen)
-
 0.5.10 / 2018-08-29
 ==================
   * Add deep skip option to provide relief from instrumentation hangs for contracts like Oraclize
